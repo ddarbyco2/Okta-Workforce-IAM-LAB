@@ -39,4 +39,4 @@ Once users are assigned to their respective organizational units, Okta’s engin
 ### 2. Successful Federation Handshake
 By authenticating as a mock finance specialist (`Jane Doe`), the identity token successfully handles the assertion validation, securely transmitting the profile payload and logging the user in seamlessly without password exposure.
 
-*(Insert successful login screenshot here)*
+
