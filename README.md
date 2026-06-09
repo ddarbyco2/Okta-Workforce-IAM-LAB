@@ -34,9 +34,13 @@ The lab successfully implements Role-Based Access Control (RBAC), federates a th
 ## Verification & Proof of Concept
 
 ### 1. The Provisioned Workforce Perimeter
+<img width="1440" height="900" alt="Screenshot 2026-06-09 at 5 55 22 PM" src="https://github.com/user-attachments/assets/aa269435-9a02-47aa-bc4d-c50b3da8afd0" />
 Once users are assigned to their respective organizational units, Okta’s engine automatically maps resource accessibility rules to the individual dashboards.
 
 ### 2. Successful Federation Handshake
 By authenticating as a mock finance specialist (`Jane Doe`), the identity token successfully handles the assertion validation, securely transmitting the profile payload and logging the user in seamlessly without password exposure.
+<img width="1440" height="900" alt="Screenshot 2026-06-09 at 5 58 46 PM" src="https://github.com/user-attachments/assets/89ab080a-17c3-4d85-9754-e532796d2b6b" />
+
+
 
 
